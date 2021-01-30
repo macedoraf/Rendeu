@@ -1,3 +1,5 @@
 <resources>
     <string name="app_name">Rendeu</string>
+
+    <string name="app_shared_preferences_context">SIMPLE_USER</string>
 </resources>

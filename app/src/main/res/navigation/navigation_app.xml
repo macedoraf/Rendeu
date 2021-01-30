@@ -6,8 +6,8 @@
     app:startDestination="@id/firstScreenFragment">
 
     <fragment
-        tools:layout="@layout/fragment_first_screen"
         android:id="@+id/firstScreenFragment"
-        android:name="br.com.rafaelmacedo.FirstScreenFragment"
-        android:label="FirstScreenFragment" />
+        android:name="br.com.rafaelmacedo.ui.UserPortfolioFragment"
+        android:label="FirstScreenFragment"
+        tools:layout="@layout/fragment_first_screen" />
 </navigation>

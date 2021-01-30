@@ -1,4 +1,4 @@
-package br.com.rafaelmacedo
+package br.com.rafaelmacedo.core
 
 sealed class State<out T> {
     object Loading : State<Nothing>()
